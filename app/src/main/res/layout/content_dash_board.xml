@@ -131,7 +131,7 @@
 
 
             <TextView
-                android:id="@+id/public_spot"
+                android:id="@+id/booktrips"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -140,7 +140,7 @@
                 android:background="@drawable/ovalwhite"/>
 
             <TextView
-                android:id="@+id/shopsafety"
+                android:id="@+id/educategirls"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -150,7 +150,16 @@
                 android:background="@drawable/ovalwhite"/>
 
             <TextView
-                android:id="@+id/livetrack"
+                android:id="@+id/joinus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_margin="10sp"
+                android:text="Join Us"
+                android:background="@drawable/ovalwhite"/>
+            <TextView
+                android:id="@+id/contributions"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
